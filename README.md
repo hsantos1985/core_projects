@@ -1,1 +1,1 @@
-# This repository has the main projects of my portfolio
+This repository has the main projects of my portfolio
